@@ -1,0 +1,11 @@
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.csproj.AssemblyReference.cache
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.Form1.resources
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.LoginForm.resources
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.Properties.Resources.resources
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.csproj.GenerateResource.cache
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\bin\Debug\ToolAccountingSystem.exe.config
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\bin\Debug\ToolAccountingSystem.exe
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\bin\Debug\ToolAccountingSystem.pdb
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.exe
+C:\Users\Ангелина\Desktop\ToolAccountingSystem\ToolAccountingSystem\obj\Debug\ToolAccountingSystem.pdb
